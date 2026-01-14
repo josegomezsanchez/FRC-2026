@@ -2,6 +2,7 @@
 This repository has a python script to run optimization/simulation of the rebuilt game.
 The optimization software has different robots with strenghts/weaknesses and the goal is to determine
 what is the optimal features combination.
+________________________________________
 🟦 ROLE 0 — Hopper
 Core identity: High capacity, high throughput cycler
 This robot is designed to collect a lot of Fuel and score it itself. It’s the classic “vacuum + shooter” robot.
