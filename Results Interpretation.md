@@ -1,4 +1,4 @@
-##How to read the results:
+## How to read the results:
 To understand the results of this simulation, think of it as a "Digital Coach" that has run thousands of practice matches to find the perfect team setup. Each block of code represents one of the three robots in your alliance, and the Fitness is your total score.
 Heres is an example output:
 __________________________________________________
@@ -8,7 +8,7 @@ Best genome after evolution:
 {'role': 1, 'path_choice': 2, 'collection_rate_center': 4.394846982606549, 'collection_rate_wing': 5.0, 'shooting_rate': 5.0, 'travel_center_to_bump': 5.478287687200953, 'travel_center_to_side': 3.629133483667994, 'travel_side_to_score': 0.5902062146016249, 'travel_bump_to_score': 1.5816344774107196, 'accuracy_open': 0.9877631798404283, 'accuracy_defended': 0.95, 'max_capacity': 63.99205600099536, 'cycle_size_preference': 0.9907673177527109, 'defend_aggressiveness': 0.8060155452702513}
 Best fitness: 700.8
 __________________________________________________
-#Here is how to read and interpret the data:
+# Here is how to read and interpret the data:
 1. The Goal: Fitness Score
 "Best Fitness: 700.8"
 This is the "High Score" for this specific alliance during a 135-second match. In this simulation, 700.8 is an exceptionally high score, indicating that the robots are working in perfect harmony without bumping into each other.
